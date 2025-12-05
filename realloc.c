@@ -1,0 +1,5 @@
+#include <stdlib.h>
+int main(){
+    int *ptr;
+    ptr= (int*) calloc(5, sizeof(int));
+}
